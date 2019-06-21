@@ -1,0 +1,95 @@
+.navbar{
+	background-color:#313129;
+	border-radius: 0px;
+	text-transform: uppercase;
+
+}
+#navbar #ice>li>a{
+	color: #fff;
+}
+#navbar #ice #sign:hover{
+background-color:grey;
+border-radius: 20Px;
+}
+#navbar #ice #sign:hover{
+	background-color:grey;
+	color: yellow;
+	border-radius: 20px;
+}
+#navbar #ice #vans:hover{
+	background-color: grey;
+	color:yellow;
+	border-radius: 20px;
+}
+#navbar #ice #max:hover{
+background-color: grey;
+	color:yellow;
+	border-radius: 20px;	
+}
+#navbar #ice #suit:hover{
+	background-color: grey;
+	color:yellow;
+	border-radius: 20px;
+}
+#navbar #mint{
+	font-size: 25px;
+	color: #e4e407;
+}
+#navbar #ice #star:hover{
+	background-color: grey;
+	color: yellow;
+	border-radius: 20px;
+}
+#navbar #ice #pan:hover{
+	background-color: grey;
+	color: yellow;
+	border-radius: 20px;
+}
+
+body{
+	margin:0px;
+}
+#SERVICE{
+	text-align:center;
+	border-bottom-style:ridge;
+	border-bottom-color: black;
+	font-weight: bold;
+
+}
+ #col1{
+	border-color: #e0e0e0;
+	min-height: 30px;
+	border-style: solid;
+	box-shadow: 10px 10px 10px grey ;
+	box-sizing:50px;
+
+	    }
+	    .icons{
+	    	width:100px;
+	    	font-size:30px;
+	    	background-color:black;
+	    	padding:5px 10px;
+	    	height:50px;
+	    	margin-top: -50px;
+	    	color: yellow;
+	    }
+	    .btn-danger{
+	    	background-color:;
+	    	border-bottom-color: #d63232;
+	    }
+	    #amaze{
+	    	text-transform: uppercase;
+	    	font-size: 40px;
+
+
+	    }
+	    #marg{
+	    	margin-top: 200px;
+	    }
+	    #ask{
+	    	font-size: 15px;
+	    }
+	   #mice{
+	    	color: gold;
+	    	
+	    }
